@@ -1,0 +1,7 @@
+echo "# portrait_generator_initImages-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Felipe3DArtist/portrait_generator_initImages-.git
+git push -u origin main
